@@ -6,6 +6,11 @@ public class _01_Print {
         System.out.println("merhaba dünya 2");
         System.out.println("merhaha dünya 3");
 
+        for (int i = 0; i <10 ; i++) {
+            System.out.println("merhaba dünya 4");
+
+        }
+
 
 
 
