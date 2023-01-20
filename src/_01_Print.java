@@ -9,6 +9,8 @@ public class _01_Print {
         for (int i = 0; i <10 ; i++) {
             System.out.println("merhaba dünya 4");
 
+            System.out.println("merhaba 5");
+
         }
 
 
