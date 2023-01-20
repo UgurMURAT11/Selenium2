@@ -4,5 +4,11 @@ public class _01_Print {
 
         System.out.println("Merhaba dünya");
         System.out.println("merhaba dünya 2");
+        System.out.println("merhaha dünya 3");
+
+
+
+
+
             }
 }
